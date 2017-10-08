@@ -25,3 +25,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.pyc
+img.jpeg
+
+.idea
+*.iml
